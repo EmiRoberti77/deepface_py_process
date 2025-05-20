@@ -1,6 +1,6 @@
 # 🧠 DeepFace Face Verification and Model Evaluation Guide
 
-This project demonstrates how to use the **DeepFace** Python framework to perform face verification and evaluate multiple built-in face recognition models. It also helps developers select the best model based on speed, embedding size, backend, and verification accuracy.
+This project demonstrates how to use the **DeepFace** framework to perform face verification and evaluate multiple built-in face recognition models. It also helps developers select the best model based on speed, embedding size, backend, and verification accuracy.
 
 ---
 
