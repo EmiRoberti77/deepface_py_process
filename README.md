@@ -9,6 +9,9 @@ deepface_sample/
 ├── images/
 │   ├── face1.png
 │   └── face2.png
+├── my_db/
+│   ├── face1.png
+│   └── face2.png
 ├── main.py
 └── requirements.txt
 ```
