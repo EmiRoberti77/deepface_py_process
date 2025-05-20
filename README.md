@@ -6,7 +6,7 @@ This project demonstrates how to use the **DeepFace** framework to perform face 
 
 ## 📖 What is DeepFace?
 
-**DeepFace** is a lightweight face recognition and analysis framework for Python. It wraps several state-of-the-art deep learning models for face recognition and verification, offering a simple interface for complex tasks like identity matching, facial attribute analysis, and more.
+**DeepFace** is a lightweight face recognition and analysis framework. It wraps several deep learning models for face recognition and verification, offering effective interface for complex tasks like identity matching, facial attribute analysis, and more.
 
 It supports multiple backends and provides consistent embeddings, facial verification (`verify`), and face search (`find`) APIs.
 
