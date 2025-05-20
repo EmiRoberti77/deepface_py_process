@@ -264,6 +264,6 @@ pip install dlib
 ## 👨‍💻 Author
 
 **Emiliano Roberti**  
-_Machine Learning and AI Developer_
+_AI / Solution Architect_
 
 For questions, optimisations or contributions, feel free to fork the repo or get in touch.
